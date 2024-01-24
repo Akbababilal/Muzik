@@ -14,9 +14,33 @@ const music = new Audio();
 
 const songs = [
   {
+    path: "assets/1.mp3",
+    displayName: "İstesem de söyleyemem",
+    cover: "assets/1.jpg",
+    artist: "Sagopa is a brand",
+  },
+  {
+    path: "assets/2.mp3",
+    displayName: "Mevsimler Gibisin",
+    cover: "assets/2.jpg",
+    artist: "Sagopa Kajmer",
+  },
+  {
+    path: "assets/3.mp3",
+    displayName: "Geceler",
+    cover: "assets/3.jpg",
+    artist: "Sagopa Kajmer",
+  },
+  {
     path: "assets/4.mp3",
     displayName: "24",
     cover: "assets/4.jpg",
+    artist: "Sagopa Kajmer",
+  },
+  {
+    path: "assets/5.mp3",
+    displayName: "Bir kulaç daha atsam karadayım",
+    cover: "assets/5.jpg",
     artist: "Sagopa Kajmer",
   },
 ];
